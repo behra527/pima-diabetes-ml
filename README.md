@@ -101,4 +101,8 @@ pima-diabetes-ml/
 ├── Pima_Diabetes_Regression_Classification.ipynb
 ├── README.md
 ├── requirements.txt
+<<<<<<< HEAD
 └── .gitignore
+=======
+└── .gitignore
+>>>>>>> 6f4b654e285457f91288af1dd8a4814edd3ffbcf
