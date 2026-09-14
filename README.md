@@ -1,5 +1,12 @@
 # Regression and Classification on the Pima Indians Diabetes Dataset
 
+[![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python)](https://www.python.org/)
+[![Scikit-learn](https://img.shields.io/badge/Scikit--learn-Machine%20Learning-orange?logo=scikit-learn)](https://scikit-learn.org/)
+[![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-blue?logo=pandas)](https://pandas.pydata.org/)
+[![NumPy](https://img.shields.io/badge/NumPy-Numerical%20Computing-blue?logo=numpy)](https://numpy.org/)
+[![Machine Learning](https://img.shields.io/badge/Task-Machine%20Learning-green)](https://scikit-learn.org/stable/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+
 ## Project Overview
 
 This project demonstrates an end-to-end supervised machine learning workflow using the Pima Indians Diabetes Dataset.
@@ -18,15 +25,15 @@ Predicting whether a patient has diabetes using clinical and demographic feature
 
 The dataset contains medical and demographic information about patients, including:
 
-- Pregnancies
-- Glucose
-- BloodPressure
-- SkinThickness
-- Insulin
-- BMI
-- DiabetesPedigreeFunction
-- Age
-- Outcome
+* Pregnancies
+* Glucose
+* BloodPressure
+* SkinThickness
+* Insulin
+* BMI
+* DiabetesPedigreeFunction
+* Age
+* Outcome
 
 ## Regression
 
@@ -36,20 +43,20 @@ BMI
 
 ### Features
 
-- Pregnancies
-- Glucose
-- BloodPressure
-- SkinThickness
-- Insulin
-- DiabetesPedigreeFunction
-- Age
+* Pregnancies
+* Glucose
+* BloodPressure
+* SkinThickness
+* Insulin
+* DiabetesPedigreeFunction
+* Age
 
 ### Evaluation Metrics
 
-- MAE
-- MSE
-- RMSE
-- R²
+* MAE
+* MSE
+* RMSE
+* R²
 
 ## Classification
 
@@ -57,31 +64,31 @@ BMI
 
 Outcome
 
-- 0 = No Diabetes
-- 1 = Diabetes
+* 0 = No Diabetes
+* 1 = Diabetes
 
 ### Evaluation Metrics
 
-- Accuracy
-- Precision
-- Recall
-- F1 Score
-- ROC-AUC
-- Confusion Matrix
+* Accuracy
+* Precision
+* Recall
+* F1 Score
+* ROC-AUC
+* Confusion Matrix
 
 ## Preprocessing
 
 The project includes:
 
-- Data inspection
-- Handling invalid zero values
-- Missing-value treatment
-- Train-test splitting
-- Feature scaling
-- Model training
-- Prediction
-- Model evaluation
-- Visualization
+* Data inspection
+* Handling invalid zero values
+* Missing-value treatment
+* Train-test splitting
+* Feature scaling
+* Model training
+* Prediction
+* Model evaluation
+* Visualization
 
 ## Models
 
@@ -101,8 +108,5 @@ pima-diabetes-ml/
 ├── Pima_Diabetes_Regression_Classification.ipynb
 ├── README.md
 ├── requirements.txt
-<<<<<<< HEAD
 └── .gitignore
-=======
-└── .gitignore
->>>>>>> 6f4b654e285457f91288af1dd8a4814edd3ffbcf
+```
